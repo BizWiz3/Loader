@@ -1,5 +1,5 @@
 [package]
-name = "BizWiz03/Loader"
+name = "bizwiz3/loader"
 description = "A simple way to create a single-script structure."
 version = "0.1.0"
 realm = "shared"
