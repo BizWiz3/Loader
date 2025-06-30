@@ -1,0 +1,9 @@
+[package]
+name = "BizWiz03/Loader"
+description = "A simple way to create a single-script structure."
+version = "0.1.0"
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/your_username/your_library_repo"
+
+[dependencies]
